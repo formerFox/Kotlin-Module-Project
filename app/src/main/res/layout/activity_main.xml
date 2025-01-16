@@ -38,7 +38,6 @@
             android:text="@string/media"
             style="@style/activity_main_button"
             app:icon="@drawable/ic_media"
-
             />
 
         <com.google.android.material.button.MaterialButton
@@ -46,7 +45,6 @@
             android:text="@string/settings"
             style="@style/activity_main_button"
             app:icon="@drawable/ic_settings"
-
             />
     </LinearLayout>
 </LinearLayout>
