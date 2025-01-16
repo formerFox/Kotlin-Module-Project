@@ -32,14 +32,12 @@
             style="@style/activity_main_button"
             app:icon="@drawable/ic_search"
             />
-
         <com.google.android.material.button.MaterialButton
             android:id="@+id/media"
             android:text="@string/media"
             style="@style/activity_main_button"
             app:icon="@drawable/ic_media"
             />
-
         <com.google.android.material.button.MaterialButton
             android:id="@+id/settings"
             android:text="@string/settings"
